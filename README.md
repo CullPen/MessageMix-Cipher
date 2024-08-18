@@ -16,7 +16,7 @@ To run this project, you'll need to install the required dependencies:
 
 1. Clone this repository:
     ```bash
-    git clone https://github.com/yourusername/MessageMix-Cipher.git
+    git clone https://github.com/CullPen/MessageMix-Cipher.git
     cd MessageMix-Cipher
     ```
 
